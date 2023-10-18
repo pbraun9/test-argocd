@@ -1,0 +1,6 @@
+
+image: gcr.io/google-samples/hello-app:1.0
+name: test-helm
+port: 8080
+type: NodePort
+
